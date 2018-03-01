@@ -2,7 +2,7 @@
 
 I travel all over teaching people how to use Git. Unfortunately, many people are new to the command line and therefore not very excited about learning Git.
 
-This repo will become a quick and dirty course (served over [GitHub Pages](pages.github.com)) that will help people get up and running with the command line.
+This repo will become a quick and dirty course (served over [GitHub Pages](https://pages.github.com/)) that will help people get up and running with the command line.
 
 ### Great Resources
 
